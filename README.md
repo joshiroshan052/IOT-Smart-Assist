@@ -10,3 +10,6 @@ IOT project 2023
 - Sijan Kasalawat- [Najis](https://github.com/sijankasalawat)
 - Prasant Bist - [](#)
 - Angle Bista - [](#)
+
+
+### Made with :heart: by Team Smart Assist (Softwarica College of IT and E-commerce)
